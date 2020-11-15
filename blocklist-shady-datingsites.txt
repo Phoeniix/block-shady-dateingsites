@@ -859,10 +859,10 @@
 0.0.0.0 www.wirwollensex.com
 0.0.0.0 wow-date.de
 0.0.0.0 www.wow-date.de
+0.0.0.0 flirtfair.de
 0.0.0.0 www.flirtfair.de
-0.0.0.0 www.www.flirtfair.de
+0.0.0.0 schnuggy.de
 0.0.0.0 www.schnuggy.de
-0.0.0.0 www.www.schnuggy.de
 0.0.0.0 x2love.de
 0.0.0.0 www.x2love.de
 0.0.0.0 xdates18.com
