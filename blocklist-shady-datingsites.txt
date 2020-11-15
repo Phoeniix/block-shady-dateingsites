@@ -113,7 +113,8 @@ flirtozean.de
 flutschy.net
 frecheflirts.de
 fremdflirten.de
-fremdgehen69.com
+0.0.0.0 fremdgehen69.com
+0.0.0.0 www.fremdgehen69.com
 fremdgehen69.de
 fuckdatearea.com
 fuckmich.com
