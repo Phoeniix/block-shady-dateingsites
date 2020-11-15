@@ -69,6 +69,8 @@
 0.0.0.0 www.casualkontakt.com
 0.0.0.0 casualfriends.de
 0.0.0.0 www.casualfriends.de
+0.0.0.0 casualsex69.de
+0.0.0.0 www.casualsex69.de
 0.0.0.0 chatpalast.com
 0.0.0.0 www.chatpalast.com
 0.0.0.0 citychatter.de
