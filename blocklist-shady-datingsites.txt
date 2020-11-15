@@ -135,6 +135,8 @@
 0.0.0.0 www.casualkontakt.com
 0.0.0.0 casualkontakt.de
 0.0.0.0 www.casualkontakt.de
+0.0.0.0 casualsex69.de
+0.0.0.0 www.casualsex69.de
 0.0.0.0 casual-lust.com
 0.0.0.0 www.casual-lust.com
 0.0.0.0 casuals.at
